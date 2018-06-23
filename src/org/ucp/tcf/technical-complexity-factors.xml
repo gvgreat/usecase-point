@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="technical-complexity-factors.xslt"?>
+<technical-complexity-factors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="technical-complexity-factors.xsd">
+	<technical-factor>
+		<factor>T1</factor>
+		<description>Distributed System</description>
+		<weight>0</weight>
+		<complexity>0</complexity>
+		<calculated-factor>0</calculated-factor>
+	</technical-factor>
+	<technical-factor>
+		<factor>T2</factor>
+		<description>Performance</description>
+		<weight>0</weight>
+		<complexity>0</complexity>
+		<calculated-factor>0</calculated-factor>
+	</technical-factor>
+	<technical-factor>
+		<factor>T3</factor>
+		<description>End User Efficiency</description>
+		<weight>0</weight>
+		<complexity>0</complexity>
+		<calculated-factor>0</calculated-factor>
+	</technical-factor>
+	<technical-factor>
+		<factor>T4</factor>
+		<description>Complex internal Processing</description>
+		<weight>0</weight>
+		<complexity>0</complexity>
+		<calculated-factor>0</calculated-factor>
+	</technical-factor>
+	<technical-factor>
+		<factor>T5</factor>
+		<description>Reusability</description>
+		<weight>0</weight>
+		<complexity>0</complexity>
+		<calculated-factor>0</calculated-factor>
+	</technical-factor>
+	<technical-factor>
+		<factor>T6</factor>
+		<description>Easy to install</description>
+		<weight>0</weight>
+		<complexity>0</complexity>
+		<calculated-factor>0</calculated-factor>
+	</technical-factor>
+	<technical-factor>
+		<factor>T7</factor>
+		<description>Easy to use</description>
+		<weight>0</weight>
+		<complexity>0</complexity>
+		<calculated-factor>0</calculated-factor>
+	</technical-factor>
+	<technical-factor>
+		<factor>T8</factor>
+		<description>Portable</description>
+		<weight>0</weight>
+		<complexity>0</complexity>
+		<calculated-factor>0</calculated-factor>
+	</technical-factor>
+	<technical-factor>
+		<factor>T9</factor>
+		<description>Easy to change</description>
+		<weight>0</weight>
+		<complexity>0</complexity>
+		<calculated-factor>0</calculated-factor>
+	</technical-factor>
+	<technical-factor>
+		<factor>T10</factor>
+		<description>Concurrent</description>
+		<weight>0</weight>
+		<complexity>0</complexity>
+		<calculated-factor>0</calculated-factor>
+	</technical-factor>
+	<technical-factor>
+		<factor>T11</factor>
+		<description>Special security features</description>
+		<weight>0</weight>
+		<complexity>0</complexity>
+		<calculated-factor>0</calculated-factor>
+	</technical-factor>
+	<technical-factor>
+		<factor>T12</factor>
+		<description>
+			Provides direct access for third parties
+		</description>
+		<weight>0</weight>
+		<complexity>0</complexity>
+		<calculated-factor>0</calculated-factor>
+	</technical-factor>
+	<technical-factor>
+		<factor>T13</factor>
+		<description>
+			Special user training facilities are required
+		</description>
+		<weight>0</weight>
+		<complexity>0</complexity>
+		<calculated-factor>0</calculated-factor>
+	</technical-factor>
+	<total-value>0</total-value>
+	<calculated-tcf>0</calculated-tcf>
+</technical-complexity-factors>

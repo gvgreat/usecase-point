@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="http://tsms-prod-tsi:8080/UCP" href="launch-UCP.jnlp">
+    <information>
+        <title>UseCase Point</title>
+        <vendor>G. Vaidhyanathan</vendor>
+        <homepage href="http://tsms-prod-tsi:8080/UCP"/>
+        <description>UCP Analysis system</description>
+        <description kind="short">UseCase Point</description>
+        <offline-allowed/>
+    </information>
+    <security>
+        <all-permissions/>
+    </security>
+    <resources>
+        <j2se version="1.6+" initial-heap-size="128m" max-heap-size="256m"/>
+        <jar href="UCP.jar" main="true" download="eager"/>
+        <jar href="lib/XMLTableControl.jar" download="eager"/>
+	<jar href="lib/I18NSwing.jar" download="eager"/>
+    </resources>
+    <application-desc main-class="org.ucp.UCPApplication">
+    </application-desc>
+</jnlp>

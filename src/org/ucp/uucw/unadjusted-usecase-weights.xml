@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="unadjusted-usecase-weights.xslt"?>
+<unadjusted-usecase-weights xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="unadjusted-usecase-weights.xsd">
+<usecase-weight>
+		<type>Simple</type>
+		<description>A simple user interface and touches only a single database entity; its success scenario has 3 steps or less; its implementation involves less than 5 classes.</description>
+		<weight>5</weight>
+		<num-cases>0</num-cases>
+		<result>0</result>
+	</usecase-weight>
+	<usecase-weight>
+		<type>Average</type>
+		<description>More interface design and touches 2 or more database entities; between 4 to 7 steps; its implementation involves between 5 to 10 classes.</description>
+		<weight>10</weight>
+		<num-cases>0</num-cases>
+		<result>0</result>
+	</usecase-weight>
+	<usecase-weight>
+		<type>Complex</type>
+		<description>Involves a complex user interface or processing and touches 3 or more database entities; over seven steps; its implementation involves more than 10 classes.</description>
+		<weight>15</weight>
+		<num-cases>0</num-cases>
+		<result>0</result>
+	</usecase-weight>
+	<total-UUCW>0</total-UUCW>
+</unadjusted-usecase-weights>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="environment-complexity-factors.xslt"?>
+<environment-complexity-factors
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="environment-complexity-factors.xsd">
+	<environment-factor>
+		<factor>E1</factor>
+		<description>Familiarity with UML</description>
+		<weight>0</weight>
+		<impact>0</impact>
+		<calculated-factor>0</calculated-factor>
+	</environment-factor>
+	<environment-factor>
+		<factor>E2</factor>
+		<description>Application Experience</description>
+		<weight>0</weight>
+		<impact>0</impact>
+		<calculated-factor>0</calculated-factor>
+	</environment-factor>
+	<environment-factor>
+		<factor>E3</factor>
+		<description>Object Oriented Experience</description>
+		<weight>0</weight>
+		<impact>0</impact>
+		<calculated-factor>0</calculated-factor>
+	</environment-factor>
+	<environment-factor>
+		<factor>E4</factor>
+		<description>Lead analyst capability</description>
+		<weight>0</weight>
+		<impact>0</impact>
+		<calculated-factor>0</calculated-factor>
+	</environment-factor>
+	<environment-factor>
+		<factor>E5</factor>
+		<description>Motivation</description>
+		<weight>0</weight>
+		<impact>0</impact>
+		<calculated-factor>0</calculated-factor>
+	</environment-factor>
+	<environment-factor>
+		<factor>E6</factor>
+		<description>Stable Requirements</description>
+		<weight>0</weight>
+		<impact>0</impact>
+		<calculated-factor>0</calculated-factor>
+	</environment-factor>
+	<environment-factor>
+		<factor>E7</factor>
+		<description>Part-time workers</description>
+		<weight>0</weight>
+		<impact>0</impact>
+		<calculated-factor>0</calculated-factor>
+	</environment-factor>
+	<environment-factor>
+		<factor>E8</factor>
+		<description>Difficult Programming language</description>
+		<weight>0</weight>
+		<impact>0</impact>
+		<calculated-factor>0</calculated-factor>
+	</environment-factor>
+	<total-value>0</total-value>
+	<calculated-ecf>0</calculated-ecf>
+</environment-complexity-factors>
